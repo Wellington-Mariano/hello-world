@@ -6,5 +6,7 @@ public class LearningGitCmd{
 		arr = {2, 3, 5, 9};
 		
 		int num = 5;
+		
+		//first create folder, add file, change file, add change, commit
 	}
 }
